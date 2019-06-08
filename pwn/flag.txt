@@ -1,0 +1,2 @@
+#Boiler plate just to test if I can access the flag.txt file from the binaries
+flag{}
